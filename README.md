@@ -23,7 +23,7 @@
   <tr>
     <td align="center" width="96">
       <a href="#yuditya-tech">
-        <img src="xxx" width="48" height="48" alt="Python" />
+        <img src="https://user-images.githubusercontent.com/85284506/209473943-583b7274-f4e3-4820-ba4f-dc9cee64ab7f.png" width="48" height="48" alt="Python" />
       </a>
       <br>Python
     </td>
@@ -35,13 +35,13 @@
     </td>
     <td align="center" width="96">
       <a href="#yuditya-tech">
-        <img src="xxx" width="48" height="48" alt="Bash" />
+        <img src="https://user-images.githubusercontent.com/85284506/209473981-4d26b95e-d27d-48c1-b043-06e555afa2f0.png" width="48" height="48" alt="Bash" />
       </a>
       <br>Bash
     </td>
     <td align="center" width="96">
       <a href="#yuditya-tech">
-        <img src="xxx" width="48" height="48" alt="Docker" />
+        <img src="https://user-images.githubusercontent.com/85284506/209474027-b396f8a6-9f30-4842-ac1d-a87d51a7f534.png" width="48" height="48" alt="Docker" />
       </a>
       <br>Docker
     </td>
@@ -59,7 +59,7 @@
     </td>
     <td align="center" width="96">
       <a href="#yuditya-tech">
-        <img src="xxx" width="48" height="48" alt="Airflow" />
+        <img src="https://user-images.githubusercontent.com/85284506/209474128-4be29d22-e988-4dff-9b3b-7690b82fdc3d.png" width="48" height="48" alt="Airflow" />
       </a>
       <br>Airflow
     </td>
@@ -67,7 +67,7 @@
   <tr>
     <td align="center" width="96"> 
       <a href="#yuditya-tech">
-        <img src="xxx" width="48" height="48" alt="dbt" />
+        <img src="https://user-images.githubusercontent.com/85284506/209474155-c2e48a6f-e25f-45da-a189-f9027931d662.png" width="48" height="48" alt="dbt" />
       </a>
       <br>dbt
     </td>
@@ -79,13 +79,13 @@
     </td>
     <td align="center"  width="96">
       <a href="#yuditya-tech">
-        <img src="xxx" width="48" height="48" alt="Google Cloud Platform" />
+        <img src="https://user-images.githubusercontent.com/85284506/209474208-dbefb989-714a-4017-a656-404f05cfb40c.png" width="48" height="48" alt="Google Cloud Platform" />
       </a>
       <br>GCP
     </td>
     <td align="center"  width="96">
       <a href="#yuditya-tech">
-        <img src="xxx" width="48" height="48" alt="Office" />
+        <img src="https://user-images.githubusercontent.com/85284506/209474234-be75bf78-0aa4-49ea-bb09-16a529bbe6e4.png" width="48" height="48" alt="Office" />
       </a>
       <br>Office
     </td>
