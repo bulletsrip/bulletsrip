@@ -29,7 +29,7 @@
     </td>
     <td align="center" width="96">
       <a href="#yuditya-tech">
-        <img src="xxx" width="48" height="48" alt="SQL" />
+        <img src="https://user-images.githubusercontent.com/85284506/209565805-99ac869d-610e-41f2-95ea-31e04a1fb25e.png" width="48" height="48" alt="SQL" />
       </a>
       <br>SQL
     </td>
@@ -47,13 +47,13 @@
     </td>
     <td align="center" width="96">
       <a href="#yuditya-tech">
-        <img src="xxx" width="48" height="48" alt="Spark" />
+        <img src="https://user-images.githubusercontent.com/85284506/209565456-5e0c603f-f34a-4776-9bb7-43c44b90a601.png" width="48" height="48" alt="Spark" />
       </a>
       <br>Spark
     </td>
     <td align="center" width="96">
       <a href="#yuditya-tech">
-        <img src="xxx" width="48" height="48" alt="Kafka" />
+        <img src="https://user-images.githubusercontent.com/85284506/209565475-5beb33ca-5dcd-419f-abb4-63e5a301ff2a.png" width="48" height="48" alt="Kafka" />
       </a>
       <br>Kafka
     </td>
@@ -73,7 +73,7 @@
     </td>
     <td align="center" width="96">
       <a href="#yuditya-tech">
-        <img src="xxx" width="48" height="48" alt="Pandas" />
+        <img src="https://user-images.githubusercontent.com/85284506/209565501-ce12f9e3-3a0d-4d44-a12b-9253aff19e87.png" width="48" height="48" alt="Pandas" />
       </a>
       <br>Pandas
     </td>
@@ -91,19 +91,19 @@
     </td>
     <td align="center" width="96">
       <a href="#yuditya-tech">
-        <img src="xxx" width="48" height="48" alt="Photoshop" />
+        <img src="https://user-images.githubusercontent.com/85284506/209565572-1503ef58-5786-4107-ba8f-def62bc08d4a.png" width="48" height="48" alt="Photoshop" />
       </a>
       <br>Photoshop
     </td>
     <td align="center"  width="96">
       <a href="#yuditya-tech">
-        <img src="xxx" width="48" height="48" alt="Looker" />
+        <img src="https://user-images.githubusercontent.com/85284506/209565527-a4dd5a9e-aff0-4f01-97e9-a28a68c46b8d.png" width="48" height="48" alt="Looker" />
       </a>
       <br>Looker
     </td>
     <td align="center" width="96">
       <a href="#yuditya-tech">
-        <img src="xxx" width="48" height="48" alt="Metabase" />
+        <img src="https://user-images.githubusercontent.com/85284506/209565544-66dabafa-725e-45ef-b2d1-673a10e8781c.png" width="48" height="48" alt="Metabase" />
       </a>
       <br>Metabase
     </td>
