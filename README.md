@@ -5,7 +5,6 @@
 <img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150'>
 
 - 💻  [What am I doing about Open Source? (**GitHub**, you're already here)](https://github.com/bulletsrip)
-- 🐦  [What do I think? (**Twitter**)](https://twitter.com/bulletsrip)
 - 🏹  [Curriculum vitae, the path of my life (**LinkedIn**)](https://linkedin.com/in/yuditya)
 - 💬 Lets discuss about **Data Engineering**
 
