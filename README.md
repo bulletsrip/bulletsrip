@@ -1,5 +1,5 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-<p>Welcome to my page! </br> I'm Yuditya Insani, Data Engineer from <img src="https://cdn-icons-png.flaticon.com/512/323/323372.png" width="13"/> <b>Indonesia</b>, currently living in <b>Purwokerto, Banyumas</b>. </p>
+<p>Welcome to my page! </br> I'm Yuditya Insani, Data Engineer from <img src="https://cdn-icons-png.flaticon.com/512/323/323372.png" width="13"/> <b>Indonesia</b>, currently living in <b>Jakarta</b>. </p>
 
 
 <img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150'>
