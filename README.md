@@ -13,7 +13,7 @@ Analytics Engineer at Lion Parcel<br>
 Latest work: [Customer Pinpoint](https://github.com/bulletsrip/customer_pinpoint)<br>
 
 - ⚙️ I use daily: `Codex` and my beloved `Luna` model
-- 🌍 I'm mostly active on [LinkedIn](https://linkedin.com/in/yuditya)
+- <img src="https://img.icons8.com/ios-filled/50/9CA3AF/globe--v1.png" width="16" height="16" alt="globe" /> I'm mostly active on [LinkedIn](https://linkedin.com/in/yuditya)
 - 💬 `ping` me about **data**, **analytics**, **building service**, and **shipping idea**
 
 For collaboration, do reach me by [email](mailto:yudityainsani@gmail.com) :)<br>
