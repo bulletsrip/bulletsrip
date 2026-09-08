@@ -10,7 +10,7 @@
 #### An Analytics Engineer by day ☀ and a curious builder by night ☾
 
 Analytics Engineer at Lion Parcel<br>
-Latest work: xxxx<br>
+Latest work: [Customer Pinpoint](https://github.com/bulletsrip/customer_pinpoint)<br>
 
 - ⚙️ I use daily: Codex and my beloved Luna model
 - 🌍 I'm mostly active on [LinkedIn](https://linkedin.com/in/yuditya)
