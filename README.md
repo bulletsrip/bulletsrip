@@ -19,7 +19,11 @@ Latest work: [Customer Pinpoint](https://github.com/bulletsrip/customer_pinpoint
 For collaboration, do reach me by [email](mailto:yudityainsani@gmail.com) :)<br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=3000&pause=1000&color=8B4A2F&center=true&vCenter=true&width=700&height=40&lines=Nice+to+meet+you%21;Let%27s+build+something+cool+together.%21" alt="Nice to meet you" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=3000&pause=1000&color=8B4A2F&center=true&vCenter=true&width=700&height=40&lines=Nice+to+meet+you%21;Let%27s+build+something+cool+together%21">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=700&height=40&lines=Nice+to+meet+you%21;Let%27s+build+something+cool+together%21">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=700&height=40&lines=Nice+to+meet+you%21;Let%27s+build+something+cool+together%21" alt="Nice to meet you" />
+  </picture>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:443232,50:5A4140,100:765754&height=120&section=footer" alt="footer" />
