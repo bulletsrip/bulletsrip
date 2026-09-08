@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<img align="right" width="300" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&duration=2600&pause=900&color=E5D8D0&background=443232&center=false&vCenter=true&multiline=true&width=300&height=160&lines=%24+build;loading+data...;pairing+with+Codex;shipping+ideas;done%21" alt="Animated terminal" />
+<img align="right" width="300" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&duration=2600&pause=900&color=666666&background=FFFFFF&center=false&vCenter=true&multiline=true&width=300&height=160&lines=%24+build;loading+data...;pairing+with+Codex;shipping+ideas;done%21&v=2" alt="Animated terminal" />
 
 ### Hello there 👋, I'm Yuditya!
 #### An Analytics Engineer by day ☀ and a curious builder by night ☾
