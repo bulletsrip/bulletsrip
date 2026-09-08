@@ -8,7 +8,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:443232,50:5A4140,100:765754&height=120&section=header" alt="header" />
 
-<img align="right" width="300" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&duration=2600&pause=900&color=777777&background=00000000&center=false&vCenter=true&multiline=true&width=300&height=160&lines=%24+build;loading+data...;pairing+with+Codex;shipping+ideas;done%21&v=7" alt="Animated terminal" />
+<img align="right" width="300" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&duration=2600&pause=900&color=777777&background=00000000&center=false&vCenter=true&multiline=true&width=300&height=160&lines=%24+build+me+something;%3E+make+no+mistakes;%3E+prompt+understood;%3E+planning...;%3E+coding...;%3E+tests+passed+%E2%9C%93&v=8" alt="Agent coding animation" />
 
 ### Hello there 👋, I'm Yuditya!
 #### An Analytics Engineer by day ☀ and a curious builder by night ☾
