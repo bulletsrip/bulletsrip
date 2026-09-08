@@ -8,7 +8,11 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:443232,50:5A4140,100:765754&height=120&section=header" alt="header" />
 
-<img align="right" width="300" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&duration=2600&pause=900&color=666666&background=FFFFFF&center=false&vCenter=true&multiline=true&width=300&height=160&lines=%24+build;loading+data...;pairing+with+Codex;shipping+ideas;done%21&v=2" alt="Animated terminal" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&duration=2600&pause=900&color=E5D8D0&background=443232&center=false&vCenter=true&multiline=true&width=300&height=160&lines=%24+build;loading+data...;pairing+with+Codex;shipping+ideas;done%21&v=3">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&duration=2600&pause=900&color=666666&background=FFFFFF&center=false&vCenter=true&multiline=true&width=300&height=160&lines=%24+build;loading+data...;pairing+with+Codex;shipping+ideas;done%21&v=3">
+  <img align="right" width="300" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&duration=2600&pause=900&color=666666&background=FFFFFF&center=false&vCenter=true&multiline=true&width=300&height=160&lines=%24+build;loading+data...;pairing+with+Codex;shipping+ideas;done%21&v=3" alt="Animated terminal" />
+</picture>
 
 ### Hello there 👋, I'm Yuditya!
 #### An Analytics Engineer by day ☀ and a curious builder by night ☾
