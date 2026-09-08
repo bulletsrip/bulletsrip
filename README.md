@@ -8,12 +8,10 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:443232,50:5A4140,100:765754&height=120&section=header" alt="header" />
 
-<img align="right" width="300" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=14&duration=2400&pause=700&color=777777&background=00000000&center=false&vCenter=true&multiline=true&width=300&height=180&lines=%24+build+me+something%2C+make+no+mistakes;%E2%86%B3+analyzing+prompt...;%E2%86%B3+understanding+requirements...;%E2%86%B3+planning+solution...;%E2%86%B3+writing+code...;%E2%86%B3+running+tests...;%E2%86%B3+done+%E2%80%94+committed+to+the+requested+changes+%E2%9C%93&v=13" alt="Agent coding animation" />
-
 ### Hello there 👋, I'm Yuditya!
 #### An Analytics Engineer by day ☀ and a curious builder by night ☾
 
-Analytics Engineer at Lion Parcel<br>
+<img align="right" width="300" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=14&duration=2400&pause=700&color=777777&background=00000000&center=false&vCenter=true&multiline=true&width=300&height=180&lines=%24+build+me+xxx%2C+make+no+mistake;%E2%86%B3+analyzing+prompt...;%E2%86%B3+understanding+requirements...;%E2%86%B3+planning+solution...;%E2%86%B3+writing+code...;%E2%86%B3+running+tests...;%E2%86%B3+done+%E2%80%94+committed+to+GitHub+%E2%9C%93&v=13" alt="Agent coding animation" />Analytics Engineer at Lion Parcel<br>
 Latest work: [Customer Pinpoint](https://github.com/bulletsrip/customer_pinpoint)<br>
 
 - ⚙️ I use daily: `Codex` and my beloved `Luna` model
