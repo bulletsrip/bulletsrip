@@ -17,3 +17,5 @@ Latest work: [Customer Pinpoint](https://github.com/bulletsrip/customer_pinpoint
 - 💬 `ping` me about **data**, **analytics**, **building service**, and **shipping idea**
 
 For collaboration, do reach me by [email](mailto:yudityainsani@gmail.com) :)<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:443232,50:5A4140,100:765754&height=120&section=footer" alt="footer" />
