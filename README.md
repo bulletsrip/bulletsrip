@@ -20,9 +20,8 @@ For collaboration, do reach me by [email](mailto:yudityainsani@gmail.com) :)<br>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=3000&pause=1000&color=8B4A2F&center=true&vCenter=true&width=700&height=40&lines=Nice+to+meet+you%21;Let%27s+build+something+cool+together%21">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=700&height=40&lines=Nice+to+meet+you%21;Let%27s+build+something+cool+together%21">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=700&height=40&lines=Nice+to+meet+you%21;Let%27s+build+something+cool+together%21" alt="Nice to meet you" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=3000&pause=1000&color=8B4A2F&center=true&vCenter=true&width=700&height=40&lines=Nice+to+meet+you%21;Let%27s+build+something+cool+together%21&v=2">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=700&height=40&lines=Nice+to+meet+you%21;Let%27s+build+something+cool+together%21&v=2" alt="Nice to meet you" />
   </picture>
 </p>
 
