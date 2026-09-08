@@ -10,12 +10,10 @@
 
 ### Hello there 👋, I'm Yuditya!
 
-<table>
-  <tr>
-    <td valign="middle"><h4>An Analytics Engineer by day ☀ and a curious builder by night ☾</h4></td>
-    <td align="right" valign="middle"><img width="300" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=14&duration=2400&pause=700&color=777777&background=00000000&center=false&vCenter=true&multiline=true&width=300&height=180&lines=%24+build+me+xxx%2C+make+no+mistake;%E2%86%B3+analyzing+prompt...;%E2%86%B3+understanding+requirements...;%E2%86%B3+planning+solution...;%E2%86%B3+writing+code...;%E2%86%B3+running+tests...;%E2%86%B3+done+%E2%80%94+committed+to+GitHub+%E2%9C%93&v=13" alt="Agent coding animation" /></td>
-  </tr>
-</table>
+<div>
+  <img align="right" width="300" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=14&duration=2400&pause=700&color=777777&background=00000000&center=false&vCenter=true&multiline=true&width=300&height=180&lines=%24+build+me+xxx%2C+make+no+mistake;%E2%86%B3+analyzing+prompt...;%E2%86%B3+understanding+requirements...;%E2%86%B3+planning+solution...;%E2%86%B3+writing+code...;%E2%86%B3+running+tests...;%E2%86%B3+done+%E2%80%94+committed+to+GitHub+%E2%9C%93&v=13" alt="Agent coding animation" />
+  <h4>An Analytics Engineer by day ☀ and a curious builder by night ☾</h4>
+</div>
 
 Analytics Engineer at Lion Parcel<br>
 Latest work: [Customer Pinpoint](https://github.com/bulletsrip/customer_pinpoint)<br>
