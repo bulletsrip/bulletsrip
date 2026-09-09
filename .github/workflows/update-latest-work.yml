@@ -17,14 +17,13 @@ jobs:
         id: latest
         env:
           GH_TOKEN: ${{ secrets.PROFILE_REPOS_TOKEN || github.token }}
-          OWNER: ${{ github.repository_owner }}
           PROFILE_REPO: ${{ github.event.repository.name }}
         shell: bash
         run: |
           repos="$(curl -fsSL \
             -H "Accept: application/vnd.github+json" \
             -H "Authorization: Bearer ${GH_TOKEN}" \
-            "https://api.github.com/users/${OWNER}/repos?type=owner&sort=pushed&direction=desc&per_page=100")"
+            "https://api.github.com/user/repos?affiliation=owner&visibility=all&sort=pushed&direction=desc&per_page=100")"
 
           latest="$(jq -r \
             --arg profile "$PROFILE_REPO" \
