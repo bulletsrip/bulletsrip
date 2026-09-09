@@ -16,7 +16,7 @@
 </div>
 
 Analytics Engineer at Lion Parcel<br>
-Latest work: <!-- latest-work-start -->[Metabase-DataVizualization](https://github.com/bulletsrip/Metabase-DataVizualization)<!-- latest-work-end --><br>
+Latest work: <!-- latest-work-start -->[customer_pinpoint](https://github.com/bulletsrip/customer_pinpoint)<!-- latest-work-end --><br>
 
 - ⚙️ I use daily: `Codex` and my beloved `Luna` model
 - <img src="https://img.icons8.com/ios-filled/50/9CA3AF/globe--v1.png" width="16" height="16" alt="globe" /> I'm mostly active on [LinkedIn](https://linkedin.com/in/yuditya)
