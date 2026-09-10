@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" width="1200" height="120" shape-rendering="crispEdges" role="img" aria-label="Animated 8-bit profile footer wave">
+  <defs>
+    <linearGradient id="brown" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#443232"/><stop offset="50%" stop-color="#5A4140"/><stop offset="100%" stop-color="#765754"/>
+    </linearGradient>
+  </defs>
+  <g transform="rotate(180 600 60)">
+    <path fill="url(#brown)" opacity=".42" d="M0 0L0 40H150V40H300V48H450V50H600V55H750V60H900V68H1050V75H1200V0Z">
+      <animate attributeName="d" dur="4s" repeatCount="indefinite" calcMode="linear" keyTimes="0;.333;.667;1" values="M0 0L0 40H150V40H300V48H450V50H600V55H750V60H900V68H1050V75H1200V0Z;M0 0L0 65H150V68H300V65H450V60H600V57H750V54H900V51H1050V50H1200V0Z;M0 0L0 85H150V75H300V65H450V60H600V70H750V85H900V70H1050V55H1200V0Z;M0 0L0 40H150V40H300V48H450V50H600V55H750V60H900V68H1050V75H1200V0Z"/>
+    </path>
+    <path fill="url(#brown)" opacity=".42" d="M0 0L0 55H150V60H300V70H450V80H600V75H750V70H900V75H1050V80H1200V0Z">
+      <animate attributeName="d" dur="4s" repeatCount="indefinite" calcMode="linear" keyTimes="0;.333;.667;1" begin="-2s" values="M0 0L0 55H150V60H300V70H450V80H600V75H750V70H900V75H1050V80H1200V0Z;M0 0L0 70H150V60H300V50H450V42H600V40H750V48H900V55H1050V60H1200V0Z;M0 0L0 65H150V58H300V52H450V48H600V55H750V65H900V78H1050V85H1200V0Z;M0 0L0 55H150V60H300V70H450V80H600V75H750V70H900V75H1050V80H1200V0Z"/>
+    </path>
+  </g>
+</svg>

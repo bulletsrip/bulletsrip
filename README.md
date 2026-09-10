@@ -6,7 +6,7 @@
 
 <hr color="#9CA3AF" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:443232,50:5A4140,100:765754&height=120&section=header" alt="header" />
+<img width="100%" src="./assets/8bit-wave-header.svg" alt="8-bit animated header wave" />
 
 ### Hello there 👋, I'm Yuditya!
 
@@ -24,4 +24,4 @@ Latest work: <!-- latest-work-start -->[customer_pinpoint](https://github.com/bu
 
 For collaboration, do reach me by [email](mailto:yudityainsani@gmail.com) :)<br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:443232,50:5A4140,100:765754&height=120&section=footer" alt="footer" />
+<img width="100%" src="./assets/8bit-wave-footer.svg" alt="8-bit animated footer wave" />
