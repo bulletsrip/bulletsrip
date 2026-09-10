@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" width="1200" height="120" shape-rendering="crispEdges" role="img" aria-label="Animated layered 8-bit brown footer wave">
   <defs>
-    <linearGradient id="brown" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#443232"/><stop offset="50%" stop-color="#5A4140"/><stop offset="100%" stop-color="#765754"/>
+    <linearGradient id="brown" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#453132"/><stop offset="50%" stop-color="#362526"/><stop offset="100%" stop-color="#2B1E1F"/>
     </linearGradient>
-    <linearGradient id="pixel-light" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#6A4B49"/><stop offset="50%" stop-color="#98706A"/><stop offset="100%" stop-color="#B18478"/>
+    <linearGradient id="pixel-light" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#5A4140"/><stop offset="50%" stop-color="#453132"/><stop offset="100%" stop-color="#342426"/>
     </linearGradient>
   </defs>
   <g transform="rotate(180 600 60)">
