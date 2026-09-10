@@ -6,7 +6,7 @@
 
 <hr color="#9CA3AF" />
 
-<img width="100%" src="./assets/8bit-wave-header.svg" alt="8-bit animated header wave" />
+<img width="100%" src="./assets/8bit-wave-preview-v2.svg" alt="8-bit animated header wave" />
 
 ### Hello there 👋, I'm Yuditya!
 
@@ -24,4 +24,4 @@ Latest work: <!-- latest-work-start -->[customer_pinpoint](https://github.com/bu
 
 For collaboration, do reach me by [email](mailto:yudityainsani@gmail.com) :)<br>
 
-<img width="100%" src="./assets/8bit-wave-footer.svg" alt="8-bit animated footer wave" />
+<img width="100%" src="./assets/8bit-wave-footer-v2.svg" alt="8-bit animated footer wave" />
