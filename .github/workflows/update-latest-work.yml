@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Find latest repository
+      - name: Find latest repositories
         id: latest
         env:
           GH_TOKEN: ${{ secrets.PROFILE_REPOS_TOKEN || github.token }}
@@ -25,27 +25,29 @@ jobs:
             -H "Authorization: Bearer ${GH_TOKEN}" \
             "https://api.github.com/user/repos?affiliation=owner&visibility=all&sort=pushed&direction=desc&per_page=100")"
 
-          latest="$(jq -r \
+          latest_repos="$(jq -r \
             --arg profile "$PROFILE_REPO" \
             '[.[] | select(.fork == false and .archived == false and .name != $profile)]
-             | .[0] | [.name, .html_url] | @tsv' <<< "$repos")"
+             | .[0:3] | .[] | [.name, .html_url] | @tsv' <<< "$repos")"
 
-          if [[ -z "$latest" || "$latest" == $'null\tnull' ]]; then
-            echo "No eligible public repository found."
+          if [[ -z "$latest_repos" ]]; then
+            echo "No eligible repositories found."
             exit 1
           fi
 
-          IFS=$'\t' read -r name url <<< "$latest"
-          echo "name=$name" >> "$GITHUB_OUTPUT"
-          echo "url=$url" >> "$GITHUB_OUTPUT"
+          links="$(awk -F '\t' 'BEGIN { sep = "" } { printf "%s[%s](%s)", sep, $1, $2; sep = " · " }' <<< "$latest_repos")"
+          {
+            echo "links<<EOF"
+            echo "$links"
+            echo "EOF"
+          } >> "$GITHUB_OUTPUT"
 
       - name: Check out profile README
         uses: actions/checkout@v4
 
       - name: Update README
         env:
-          LATEST_NAME: ${{ steps.latest.outputs.name }}
-          LATEST_URL: ${{ steps.latest.outputs.url }}
+          LATEST_LINKS: ${{ steps.latest.outputs.links }}
         run: |
           python - <<'PY'
           import os
@@ -56,7 +58,7 @@ jobs:
           text = path.read_text()
           replacement = (
               "Latest work: <!-- latest-work-start -->"
-              f"[{os.environ['LATEST_NAME']}]({os.environ['LATEST_URL']})"
+              f"{os.environ['LATEST_LINKS']}"
               "<!-- latest-work-end --><br>"
           )
           updated, count = re.subn(
