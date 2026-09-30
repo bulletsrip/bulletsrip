@@ -16,7 +16,7 @@
 </div>
 
 Analytics Engineer at Lion Parcel<br>
-Latest work: <!-- latest-work-start -->[img2ssh](https://github.com/bulletsrip/img2ssh) · [context_intent_classifier](https://github.com/bulletsrip/context_intent_classifier) · [jastiper_ai](https://github.com/bulletsrip/jastiper_ai)<!-- latest-work-end --><br>
+Latest work: <!-- latest-work-start -->[context_intent_classifier](https://github.com/bulletsrip/context_intent_classifier) · [img2ssh](https://github.com/bulletsrip/img2ssh) · [jastiper_ai](https://github.com/bulletsrip/jastiper_ai)<!-- latest-work-end --><br>
 
 - ⚙️ I use daily: `Codex` and my beloved `Luna` model
 - <img src="https://img.icons8.com/ios-filled/50/9CA3AF/globe--v1.png" width="16" height="16" alt="globe" /> I'm mostly active on [LinkedIn](https://linkedin.com/in/yuditya)
