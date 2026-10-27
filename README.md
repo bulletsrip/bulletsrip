@@ -16,7 +16,7 @@
 </div>
 
 Analytics Engineer at Lion Parcel<br>
-Latest work: <!-- latest-work-start -->[whatsapp_opex](https://github.com/bulletsrip/whatsapp_opex) · [autoinput](https://github.com/bulletsrip/autoinput) · [genggam](https://github.com/bulletsrip/genggam)<!-- latest-work-end --><br>
+Latest work: <!-- latest-work-start -->[whatsapp_sim](https://github.com/bulletsrip/whatsapp_sim) · [autoinput](https://github.com/bulletsrip/autoinput) · [whatsapp_opex](https://github.com/bulletsrip/whatsapp_opex)<!-- latest-work-end --><br>
 
 - ⚙️ I use daily: `Codex` and my beloved `Luna` model
 - <img src="https://img.icons8.com/ios-filled/50/9CA3AF/globe--v1.png" width="16" height="16" alt="globe" /> I'm mostly active on [LinkedIn](https://linkedin.com/in/yuditya)
